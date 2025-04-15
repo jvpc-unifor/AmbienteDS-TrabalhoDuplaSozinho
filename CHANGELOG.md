@@ -6,3 +6,6 @@
 
 # V0.1.1
     - Hotfix: Adicionado criptografia em login.js
+
+# V0.1.2
+    - Hotfix: Correção no problema de email do login.js
